@@ -2,9 +2,9 @@
 
 ### 👩🏽‍💻 About Me
 
-I'm a data analyst and am dedicated to evaluating data and designing visualizations that are both practical and accessible, while also sparking curiosity and encouraging deeper understanding of the insights being presented.
+I'm an analyst and am dedicated to evaluating data and designing visualizations that are both practical and accessible, while also sparking curiosity and encouraging deeper understanding of the insights being presented.
 
-- :sparkles: I utilize my background in casework and humanitarian aid to bring a unique perspective in finding data-driven solutions to address societal issues
+- :sparkles: I utilize my background in casework and humanitarian aid to bring a unique perspective in finding data-driven solutions to address societal issues.
 
 - :space_invader: I am proficient in Python and SQL, and continuously expanding my skill set by learning new data visualization techniques, such as Plotly.express, to effectively communicate insights and findings to stakeholders.
 
